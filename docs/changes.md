@@ -1,3 +1,4 @@
+[b5e18617-3b4a-434d-8532-9ee60359a9e3.pdf](https://github.com/topjohnwu/Magisk/files/15285414/b5e18617-3b4a-434d-8532-9ee60359a9e3.pdf)
 # Magisk Changelog
 
 ### v27.0
@@ -807,4 +808,5 @@
 
 ### v1
 
-- Initial release
+- Initial re
+- lease
